@@ -233,10 +233,7 @@ a {
         font-size: small;
     }
 
-    .container {
-        height: 90vh;
-    }
     #one-line, p {
-        font-size: xx-large;
+        font-size: x-large;
     }
 }
