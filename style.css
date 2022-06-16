@@ -191,10 +191,10 @@ a {
 @media (prefers-color-scheme: light) {
     :root {
         --background-primary-color: #f4f2f2;
-        --nav-link-color: #0E7AFE;
+        --nav-link-color: #0D58D9;
         --text-color-primary: black;
         --background-nav-color: lightgray;
-        --background-button-color: #0E7AFE;
+        --background-button-color: #0D58D9;
         --background-button-color-hover: #4a94ef;
     }
 }
@@ -202,10 +202,10 @@ a {
 @media (prefers-color-scheme: dark) {
     :root {
         --background-primary-color: black;
-        --nav-link-color: #0E7AFE;
+        --nav-link-color: #0D58D9;
         --text-color-primary: whitesmoke;
         --background-nav-color: rgb(45, 44, 44);
-        --background-button-color: #0E7AFE;
+        --background-button-color: #0D58D9;
         --background-button-color-hover: #4a94ef;
     }
     
