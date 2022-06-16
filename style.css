@@ -17,19 +17,25 @@ body {
 .container {
     position: relative;
     height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .landing-div {
+    width: 100%;
     position: absolute;
     margin: 0;
     top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);  
+    left: 45%;
+    -ms-transform: translate(-30%, -30%);
+    transform: translate(-45%, -45%);  
+    text-align: center;
 }
 
 #one-line, p {
     font-size: xx-large;
+    text-align: cetner;
 }
 
 #github {
@@ -227,7 +233,10 @@ a {
         font-size: small;
     }
 
+    .container {
+        height: 90vh;
+    }
     #one-line, p {
-        font-size: small;
+        font-size: x-large;
     }
 }
