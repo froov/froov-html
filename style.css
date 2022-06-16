@@ -204,10 +204,10 @@ a {
 @media (prefers-color-scheme: dark) {
     :root {
         --background-primary-color: black;
-        --nav-link-color: #0D58D9;
+        --nav-link-color: #0E7AFE;
         --text-color-primary: whitesmoke;
         --background-nav-color: rgb(45, 44, 44);
-        --background-button-color: #0D58D9;
+        --background-button-color: #0E7AFE;
         --background-button-color-hover: #4a94ef;
     }
     
