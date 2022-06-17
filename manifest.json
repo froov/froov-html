@@ -1,0 +1,25 @@
+{
+    "name": "Froov",
+    "lang": "en-us",
+    "short_name": "Froov",
+    "description": "Coming Soon",
+    "start_url": "https://froov.com",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "black",
+    "background_color": "black",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/logo_transp_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo_transp_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
